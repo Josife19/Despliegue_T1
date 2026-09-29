@@ -1,1 +1,7 @@
-Saludos a todos
+<?php
+
+include "src/functions.php";
+
+saludo();
+
+?>
