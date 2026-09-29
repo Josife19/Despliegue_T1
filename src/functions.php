@@ -5,7 +5,7 @@ function saludo() {
 }
 
 function mensajePersonalizado() {
-	return "Mensaje Personalizado" ;
+	return "Mensaje Personalizado mal configurado" ;
 }
 
 ?>
