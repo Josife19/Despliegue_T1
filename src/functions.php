@@ -9,4 +9,6 @@ function mensajePersonalizado() {
 
 }
 
+echo "FUNCION APLICADA A LA CLONACION DEL PROCESO";
+
 ?>
